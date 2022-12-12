@@ -1,0 +1,120 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  overflow:hidden;
+}
+
+/* General Heading Classes */
+.heading1{
+  color:black;
+  margin-top:100px;
+  font-size:2.2rem;
+}
+
+.auth-page{
+  height:550px;
+}
+
+.form-container{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 450px;
+}
+
+.left-section{
+  display:flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+ }
+
+.register-img{
+  width:100%;
+  height:100%;
+}
+
+#formBox{
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+
+.logoHeading{
+  color: #20bead;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+  margin-left:10%;
+}
+
+.box-heading{
+  font-size:1.6rem;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.box-sub-heading{
+  font-size:1rem;
+  color:darkgray;
+}
+.logo-text{
+  color:#20bead;
+}
+
+.user-name{
+  text-transform: capitalize;
+}
+
+/* Mobile Number Field */
+.input-field{
+  padding: 0.6rem;
+  border:1px solid #20bead;
+}
+
+.container-1{
+  width: 100%;
+}
+.container-2{
+  width: 100%;
+  height:100vh;
+  display: flex;
+}
+.container-3{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.rightContainer{
+  width: 80%;
+  height:90vh;
+  overflow-y: auto;
+}
+
+/*  Font Colors */
+.primary{
+  color: var(--primary);
+}
+
+
+
+/* Buttons */
+.btn-1{
+  width:100%;
+  height:30%;
+  padding:10px;
+  margin-top:10px;
+  background:var(--primary);
+  border:none;
+ }
+ .btn-2{
+  width:100%;
+  height:30%;
+  border-radius: 0px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding:10px;
+  margin-top:10px;
+  background:var(--primary);
+  border:none;
+ }
+ 

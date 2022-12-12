@@ -1,0 +1,159 @@
+[ [36m2022-12-09 23:17:19:1719[39m ]  [31mName : Unable to create Password Error | Descriptiion : data and salt arguments required | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:17:19:1719[39m ]  [35mPOST /signup 500 108 - 13.829 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:27:48:2748[39m ]  [31mName : Unable to create Password Error | Descriptiion : data and salt arguments required | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:27:48:2748[39m ]  [35mPOST /signup 500 108 - 12.916 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:28:08:288[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : email | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:28:08:288[39m ]  [35mPOST /signup 500 92 - 61.512 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:28:29:2829[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : email | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:28:29:2829[39m ]  [35mPOST /signup 500 92 - 57.003 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:28:39:2839[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : name | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:28:39:2839[39m ]  [35mPOST /signup 500 91 - 72.676 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:28:50:2850[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : age | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:28:50:2850[39m ]  [35mPOST /signup 500 90 - 58.968 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:31:37:3137[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : age | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:31:37:3137[39m ]  [35mPOST /signup 500 90 - 73.530 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:31:38:3138[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : age | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:31:38:3138[39m ]  [35mPOST /signup 500 90 - 58.217 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:31:44:3144[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : age | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:31:44:3144[39m ]  [35mPOST /signup 500 90 - 56.017 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:31:49:3149[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:31:49:3149[39m ]  [35mPOST /signup 500 92 - 62.925 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:32:06:326[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:32:06:326[39m ]  [35mPOST /signup 500 92 - 58.472 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:32:15:3215[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:32:15:3215[39m ]  [35mPOST /signup 500 92 - 60.646 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:32:26:3226[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:32:26:3226[39m ]  [35mPOST /signup 500 92 - 56.231 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:32:55:3255[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:32:55:3255[39m ]  [35mPOST /signup 500 92 - 56.905 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:32:57:3257[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:32:57:3257[39m ]  [35mPOST /signup 500 92 - 61.029 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:33:05:335[39m ]  [35mPOST /signup 200 285 - 77.565 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:34:45:3445[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:34:45:3445[39m ]  [35mPOST /signup 500 92 - 73.180 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:34:59:3459[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:34:59:3459[39m ]  [35mPOST /signup 500 92 - 57.598 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:35:23:3523[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:35:23:3523[39m ]  [35mPOST /signup 500 119 - 68.640 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:35:30:3530[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:35:30:3530[39m ]  [35mPOST /signup 500 119 - 59.632 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:35:35:3535[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:35:35:3535[39m ]  [35mPOST /signup 500 119 - 63.193 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:35:45:3545[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:35:45:3545[39m ]  [35mPOST /signup 500 119 - 62.116 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:36:27:3627[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:36:27:3627[39m ]  [35mPOST /signup 500 119 - 77.814 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:36:40:3640[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:36:40:3640[39m ]  [35mPOST /signup 500 119 - 60.791 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:37:33:3733[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : email | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:37:33:3733[39m ]  [35mPOST /signup 500 92 - 71.838 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:37:48:3748[39m ]  [35mPOST /signup 200 350 - 65.644 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:38:01:381[39m ]  [31mName : Error on creating customer ValidationError | Descriptiion : phone | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:38:01:381[39m ]  [35mPOST /signup 500 92 - 78.850 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:38:11:3811[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:38:11:3811[39m ]  [35mPOST /signup 500 119 - 64.520 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:40:36:4036[39m ]  [31mName : Data Not found! | Descriptiion : Internal Server Error | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:40:36:4036[39m ]  [35mPOST /login 500 81 - 18.982 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:05:415[39m ]  [31mName : Data Not found! | Descriptiion : Internal Server Error | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:41:05:415[39m ]  [35mPOST /login 500 81 - 8.518 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:12:4112[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:41:12:4112[39m ]  [35mPOST /signup 500 119 - 67.801 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:24:4124[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:41:24:4124[39m ]  [35mPOST /signup 500 119 - 58.091 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:30:4130[39m ]  [31mName : Error on creating customer MongoError | Descriptiion : E11000 duplicate key error collection | Status Code : 500 | IsOperational : true[39m
+[ [36m2022-12-09 23:41:30:4130[39m ]  [35mPOST /signup 500 119 - 61.433 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:39:4139[39m ]  [35mPOST /signup 200 345 - 60.375 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:41:47:4147[39m ]  [35mPOST /login 200 345 - 63.170 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:47:20:4720[39m ]  [35mPOST /login 200 370 - 71.430 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:50:02:502[39m ]  [31mName : UN_AUTHORISED | Descriptiion : No token found | Status Code : 403 | IsOperational : true[39m
+[ [36m2022-12-09 23:50:02:502[39m ]  [35mPOST /address 403 72 - 13.150 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:50:13:5013[39m ]  [31mName : UN_AUTHORISED | Descriptiion : No token found | Status Code : 403 | IsOperational : true[39m
+[ [36m2022-12-09 23:50:13:5013[39m ]  [35mGET /profile 403 72 - 3.411 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:50:35:5035[39m ]  [35mPOST /login 200 370 - 65.875 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:50:38:5038[39m ]  [31mName : UN_AUTHORISED | Descriptiion : No token found | Status Code : 403 | IsOperational : true[39m
+[ [36m2022-12-09 23:50:38:5038[39m ]  [35mGET /profile 403 72 - 1.273 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:51:33:5133[39m ]  [35mPOST /login 200 370 - 58.585 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:51:37:5137[39m ]  [35mGET /profile 200 241 - 7.614 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:52:26:5226[39m ]  [35mGET /profile 200 241 - 20.309 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:53:27:5327[39m ]  [35mGET /profile 200 266 - 16.855 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:53:38:5338[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:54:16:5416[39m ]  [35mGET /profile 200 266 - 17.062 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:54:17:5417[39m ]  [35mGET /profile 200 266 - 4.744 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:54:18:5418[39m ]  [35mGET /profile 200 266 - 3.884 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:54:23:5423[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:54:56:5456[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:55:13:5513[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:56:10:5610[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:56:42:5642[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:57:11:5711[39m ]  [31mName : Internal Server Error | Descriptiion : undefined | Status Code : API Error: Error on creating address TypeError: Cannot read properties of null (reading 'save') | IsOperational : true[39m
+[ [36m2022-12-09 23:57:48:5748[39m ]  [35mPOST /address 200 357 - 48.935 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:57:53:5753[39m ]  [35mGET /profile 200 382 - 17.406 ms[39m
+[35m[39m
+[ [36m2022-12-09 23:58:56:5856[39m ]  [35mGET /profile 200 382 - 20.054 ms[39m
+[35m[39m
+[ [36m2022-12-10 00:02:06:26[39m ]  [35mGET /profile 200 364 - 26.696 ms[39m
+[35m[39m
+[ [36m2022-12-10 00:02:23:223[39m ]  [35mGET /profile 200 374 - 25.469 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:05:59:559[39m ]  [35mPOST /signup 200 345 - 223.652 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:06:15:615[39m ]  [35mPOST /login 200 370 - 179.348 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:06:52:652[39m ]  [35mGET /profile 200 483 - 33.951 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:38:26:3826[39m ]  [35mPOST /signup 200 348 - 110.451 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:38:47:3847[39m ]  [35mPOST /login 200 373 - 86.166 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:38:56:3856[39m ]  [35mGET /profile 200 267 - 29.122 ms[39m
+[35m[39m
+[ [36m2022-12-10 11:39:41:3941[39m ]  [35mGET /profile 200 484 - 25.929 ms[39m
+[35m[39m

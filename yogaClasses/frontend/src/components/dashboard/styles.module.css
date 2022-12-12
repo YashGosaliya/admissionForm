@@ -1,0 +1,11 @@
+.heading1{
+    color:black;
+    font-size: 1.5rem;
+}
+.headBox{
+    width:90%;
+    height:8rem;
+    padding:8px;
+    border-bottom-right-radius: 20px;
+    border:2px solid black;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Batch 1",
+    "startTime": "6",
+    "endTime": "7AM",
+    "batchImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0x5QUUG8Cnwg-DGXWWkFmZfrIAIEOVGixg&usqp=CAU"
+  },
+  {
+    "title": "Batch 2",
+    "startTime": "7",
+    "endTime": "8AM",
+    "batchImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0x5QUUG8Cnwg-DGXWWkFmZfrIAIEOVGixg&usqp=CAU"
+  },
+  {
+    "title": "Batch 3",
+    "startTime": "8",
+    "endTime": "9AM",
+    "batchImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0x5QUUG8Cnwg-DGXWWkFmZfrIAIEOVGixg&usqp=CAU"
+  },
+  {
+    "title": "Batch 4",
+    "startTime": "5",
+    "endTime": "6PM",
+    "batchImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0x5QUUG8Cnwg-DGXWWkFmZfrIAIEOVGixg&usqp=CAU"
+  }
+]
